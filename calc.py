@@ -9,3 +9,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+    result = add(a, b)
+    result2 = subtract(a, b)
+def subtract(x, y):
+    return x - y
